@@ -1,2 +1,3 @@
 a text for test git delete file.
 haha
+
